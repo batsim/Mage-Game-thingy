@@ -1,6 +1,6 @@
 extends Sprite
 
-# a is for active it's a throaway variable so the code stops doing stuff before removing itself, cause it would cause a crash
+# a is for active it's a throaway variable so the code stops doing stuff before removing itself, cause it would cause a crash.
 var a = false
 
 var damage = 10
